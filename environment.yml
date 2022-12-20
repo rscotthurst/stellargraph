@@ -1,0 +1,16 @@
+name: stellargraph
+channels:
+  - defaults
+  - stellargraph
+dependencies:
+  - python=3.8
+  - scikit-learn
+  - matplotlib
+  - numpy
+  - scipy
+  - tensorflow
+  - pandas
+  - networkx
+  - jupyterlab
+  - chardet
+  - stellargraph
